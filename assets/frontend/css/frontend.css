@@ -1,0 +1,22 @@
+select.rating_sorting, select.time_sorting {
+	min-width: 150px;
+	color: #252525;
+}
+
+h2.no_of_review {
+	float: left;
+	margin-top: 0;
+	max-width: 55%;
+}
+
+div.review_sort {
+	float: right;
+}
+
+div.clear {
+	clear: both !important;
+}
+
+.time_sorting_container {
+  margin-top: 10px;
+}
